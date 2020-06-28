@@ -1,0 +1,14 @@
+addon selenium version 4.103.0.0
+addon core version 4.106.0.0
+addon language version 4.105.0.0
+selenium.open chrome url https://manual.g1ant.com/G1ANT.Addons result ♥id
+window ✱chrome✱ style maximize 
+delay 4
+program notepad
+window ✱notepad✱ style maximize
+keyboard ‴We saw Whats new in G1ant‴
+Keyboard ⋘ENTER⋙
+keyboard ‴Thank You‴
+keyboard ⋘ALT+F4⋙
+keyboard ⋘TAB⋙
+keyboard ⋘ENTER⋙
